@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Late plot on the fleet, detected with the Jacobites memorial to the French king, and an account of those gentlemen who invited the French fleet to invade our English coasts &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49683</idno>
+            <idno type="STC">Wing L555</idno>
+            <idno type="STC">ESTC R24426</idno>
+            <idno type="EEBO-CITATION">08181124</idno>
+            <idno type="OCLC">ocm 08181124</idno>
+            <idno type="VID">41022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41022)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1233:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Late plot on the fleet, detected with the Jacobites memorial to the French king, and an account of those gentlemen who invited the French fleet to invade our English coasts &amp;c.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:41022:1"/>
+            <pb facs="tcp:41022:1" rendition="simple:additions"/>
+            <head>THE LATE Plot on the Fleet, Detected: WITH The <hi>Jacobites</hi> Memorial to the <hi>French</hi> King: And an Account of thoſe Gentlemen, who Invited the <hi>French</hi> Fleet to Invade our <hi>Engliſh</hi> Coaſts, <hi>&amp;c.</hi>
+            </head>
+            <p>TO ſee the <hi>French</hi> (in a manner) Maſters at Sea, and the <hi>Engliſh</hi> Glory, for the preſent, thus ſunk in the Eyes of all Chriſten<g ref="char:EOLhyphen"/>dom by a Complication of Diſaſters, has been the occaſion of great Enquiry into the Source and Cauſe of ſo important Events. If any are ſo Ignorant as not to know by what means the <hi>French</hi> of late came to have ſo much Shipping (who, but in the days of Queen <hi>Elizabeth,</hi> durſt not put a Ship on the Stocks without leave from <hi>Eng<g ref="char:EOLhyphen"/>land</hi>) let him peruſe <hi>Andrew Marvel</hi>'s <hi>Growth of Popery,</hi> and the Secret Hiſtory of the Two late Reigns, and he may be ſufficiently in<g ref="char:EOLhyphen"/>formed. The deſign of this Paper is to Characterize, briefly, the Perſons that In<g ref="char:EOLhyphen"/>vited the <hi>French</hi> Fleet into the <hi>Engliſh</hi> Chan<g ref="char:EOLhyphen"/>nel: The King and Queen being no ſooner ſettled in the Throne, than the Spirit of Mur<g ref="char:EOLhyphen"/>muring began to exerciſe it ſelf on a ſort of Gentlemen, who had made ſo great a noiſe in the World, with their Doctrines of <hi>Jure Divine</hi> and Paſſive Obedience, tho' to any body, but thoſe that are wilfully Ignorant, the Inviting and Aſſiſting His Majeſty againſt the late King, before the Crown was con<g ref="char:EOLhyphen"/>ferred upon him, was a greater Invaſion of their darling Principles, than the Swearing to him, and juſtly Obeying him, after He is declared and acknowledged King by the Parliament.</p>
+            <p>The firſt ſtep of Contrivance, this part of the Clergy made, was the Writing againſt the taking the new Oaths to their Majeſties, enjoyn'd them by Act of Parliament; and the buzzing into the Ears of their poor Vo<g ref="char:EOLhyphen"/>taries, the Unlawfulneſs of theſe Oaths, and the continuing Right of King <hi>James</hi> to the Crown: This piece of their Artillery, it was thought would have done ſome conſi<g ref="char:EOLhyphen"/>derable Execution: But alas! many of the Gentlemen themſelves who had been to perſwade others to Refuſe the Oaths, they could ſo little digeſt the loſs of their Liv<g ref="char:EOLhyphen"/>ings, as they choſe rather to take theſe un<g ref="char:EOLhyphen"/>lawful Oaths (as they call'd them) than to expoſe themſelves to the leaſt Suffering.</p>
+            <p>The next ſtep of the Plot was, to Cheat the World and their own Conſciences with a ridiculous and fooliſh diſtinction of taking the Oaths to a King <hi>de facto,</hi> but not <hi>de jure.</hi> The deſign of this diſtinction was firſt to ſalve their own Conſcience, and to vindicate themſelves from the Reproaches of their Comrades, who had abſolutely re<g ref="char:EOLhyphen"/>fuſed to take the Oaths. And ſecondly, To bear it in upon the Minds of the People, That their Majeſties were not lawful and rightful King and Queen of <hi>England,</hi> but <hi>de facto</hi> only, that is, in plain <hi>Engliſh,</hi> downright Uſurpers.</p>
+            <p>This diſtinction did not only give them ſcope to take the Oaths to their Majeſties,
+<pb facs="tcp:41022:2"/>but alſo to Pray for them by Name in their Pulpits. But many, of more Sincerity than the reſt, would not Pray for them by Name at all; and yet, to prevent any trouble from the Law, they wiſely prayed in general terms for the King and Queen. Here was a pret<g ref="char:EOLhyphen"/>ty way of playing faſt and looſe with God Almighty, he might ſake it in what ſenſe he pleaſed.</p>
+            <p>Theſe ſteps of the Plot were to be back'd with another Engine of theirs; and that was the publiſhing to the World the Hiſtory of <hi>Paſſive Obedience;</hi> altho moſt of the Cita<g ref="char:EOLhyphen"/>tions of this Pamphlet, be far wide of the Queſtion, and refer only to <hi>Obedience to Majeſtracy</hi> in general, and the unlawful<g ref="char:EOLhyphen"/>neſs of private Perſons, their riſing up a<g ref="char:EOLhyphen"/>gainſt the Government upon every frivolous Pretext. The next and greateſt Engine of their Plot, is the happy reſult of a kind of Occonomick Council of the whole Party: The Liturgy of the Church of <hi>England</hi> muſt be laid aſide, and a new one muſt be Cal<g ref="char:EOLhyphen"/>culated for the Meridian of King <hi>James</hi>'s Tottering Fortune; and the greateſt wonder of all is, That the Council which publiſh'd this new Liturgy, did not uſher it in with, It ſeems good to the Holy Ghoſt, and to us.</p>
+            <p>In this new Liturgy they inſinuate to the World, That in effect, we're without King, without Prieſt, and without God in the World. A dreadful Doom before a terrible Tribunal! None are indeed at this rate, within the compaſs of the Church, but this <hi>Jacobite-Club</hi> and their followers. But let us hear the very words of this part of the Liturgy; <hi>Reſtore us again,</hi> ſay they, <hi>the publick Worſhip of thy Name, the reve<g ref="char:EOLhyphen"/>rend Adminiſtration of thy Sacraments; raiſe up the former Government both in Church and State, that we may be no longer without King, without Prieſt, and without God in the World.</hi>
+            </p>
+            <p>They afterwards proceed to pray for the Proſperity of the Arms of King <hi>James,</hi> and the <hi>French</hi> King, againſt their Majeſties and Government.</p>
+            <p>But now I come to the main points of this Noble Contrivance. His Majeſty from a Noble and Boundleſs Courage, will needs venture His Perſon once more for the ſafe<g ref="char:EOLhyphen"/>ty of theſe Kingdoms.</p>
+            <p>The King being gone; Admiral <hi>Killigrew</hi> being in the <hi>Streights;</hi> and Sir <hi>Clowdeſley Shovel</hi> in St. <hi>George's-Channel,</hi> and the <hi>Hol<g ref="char:EOLhyphen"/>land</hi> Squadron not yet joyn'd ours, nor ours fully met; then was the time for our Plot<g ref="char:EOLhyphen"/>ters to put their long thought-on deſign in Execution. In order to which, at one of their <hi>General Meetings</hi> in <hi>London,</hi> where it was neceſſary ſome of the Clergy ſhould be preſent to Bleſs ſo Pious a Work; It was concluded to give in a Memorial in the Name of the <hi>Loyal and Diſtreſſed Subjects of</hi> England, (for ſo they nam'd themſelves) to his Moſt Chriſtian Majeſty; Humbly In<g ref="char:EOLhyphen"/>viting him out of his extraordinary Good<g ref="char:EOLhyphen"/>neſs, and for the Affection he always bore to oppreſt Vertue, That he would aſſiſt them in reſtoring Their lawful King, His Ancient Ally and Confederate to his Throne; and in breaking the Yoak of Uſurpation, un<g ref="char:EOLhyphen"/>der which theſe Three Nations were at this time ſo heavily Groaning. But it will be abſolutely fit here to inſert the very Words of their Memorial it ſelf, as it has been diſ<g ref="char:EOLhyphen"/>cover'd by a certain Perſon of late, and as it was expreſt in the <hi>French</hi> Tongue, in which it was Originally written, and given in.</p>
+            <floatingText type="letter">
+               <body>
+                  <head>The MEMORIAL is thus:</head>
+                  <opener>
+                     <salute>To the Moſt Serene, and Moſt Invincible Prince, <hi>Lewis</hi> the Great, his Moſt Chriſtian Majeſty; The Me<g ref="char:EOLhyphen"/>moria of the Loyal and Diſtreſt Noblemen, Clergy, Gentlemen, and others, of all Ranks within the Kingdoms of <hi>England, Scotland</hi> and <hi>Ireland,</hi> at pre<g ref="char:EOLhyphen"/>ſent under the Fetters of a Cruel Uſurpation.</salute>
+                  </opener>
+                  <opener>
+                     <salute>Great and Invincible Monarch,</salute>
+                  </opener>
+                  <p>
+                     <hi>THe reſplended Rays of Your Majeſties Virtue<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> have render'd all the World your Adorers: And that Inherent Goodneſs of which Your Majeſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſtands ſo tranſcendently poſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt, d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es render You the only</hi> Sanctuary <hi>of all the Diſtreſt. It's in the Confid<gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> which this Your <g ref="char:V">Ʋ</g>nparallel'd goodneſs gives us, That we in all humble Duty preſume to lay our ſighs at Your Majeſties feet: And that we Implore your Royal Favour and Aſſiſtance, to rid us of the great and in<g ref="char:EOLhyphen"/>ſupportable Afflictions we lye under at preſent.</hi>
+                  </p>
+                  <pb facs="tcp:41022:2"/>
+                  <p>
+                     <hi>It's in your Royal Arms and Bounty we repoſe our Hope and Confidence; and expect to ſee our lawful King, Your Ancient Friend and Ally, restor'd to the rightful Throne of his Anceſtors, out of which wicked Men have thruſt him. And becauſe this is the moſt proper time for your Majeſty to aſſist us with the aſſu<g ref="char:EOLhyphen"/>red expectation of ſucceſs, we have preſum'd to lay be<g ref="char:EOLhyphen"/>fore you the preſent favourable Circumſtances, that do concur to make your Majeſties glorious Enterprize the more eaſie; which are principally theſe,</hi>
+                     <list>
+                        <item>1. <hi>The Prince of</hi> Orange, <hi>the <g ref="char:V">Ʋ</g>ſurper, is just now on his Journey to</hi> Ireland; <hi>And b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ing once arriv'd in that Kingdom, if a part of Your Majeſties Fleet were able to block up</hi> St. George<hi>'s Channel, the <g ref="char:V">Ʋ</g>ſurper's Army would certainly be ſtarv'd, being all their Pro<g ref="char:EOLhyphen"/>viſions come by</hi> Sea <hi>from</hi> Scotland <hi>and</hi> England; <hi>And that part of the Countrey they are Masters of, is already haraſs'd and ruin'd by both the Armies, both the laſt Year and This.</hi>
+                        </item>
+                        <item>2. <hi>The <g ref="char:V">Ʋ</g>ſurper has partly ſent before and partly takes along with himſelf the whole, almoſt, and the better Diſciplin'd part of the Army: And leaves behind him but a very few of the Engliſh Regiments; who ſerve him mere out of neceſſity and fear, than out of any Love to him, or to the Intereſt.</hi>
+                        </item>
+                        <item>3. <hi>The Forces he leaves behind are ſo very few, that they are ſcarce capable to keep Guards in the</hi> Tower, <hi>the</hi> Savoy, Somerſet-Houſe, <hi>and at</hi> White-H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll <hi>all together: And the three Regiments that are ſent for out of</hi> Holland, <hi>will not be yet ready for ſome weeks to Embark; neither is it thought they will ſtir a foot, be<g ref="char:EOLhyphen"/>cauſe of want of Pay. Like as both Officers and Soul<g ref="char:EOLhyphen"/>diers are not entirely Devoted to the <g ref="char:V">Ʋ</g>ſurpers Intereſt, the moſt of them being in the ſervice of our Lawful King, before he was neceſſitated to leave us.</hi>
+                        </item>
+                        <item>4. <hi>Moſt of our Fleet are at ſo great diſtance one from another, that they cannot this year make any conſider-Body. There being the beſt and ableſt Seamen and Ships with</hi> Killegrew <hi>in the</hi> S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>reights, <hi>and with</hi> Shouel <hi>in</hi> St. George<hi>'s Channel, amounting together to more than nineteen Ships of War.</hi>
+                        </item>
+                        <item>5. <hi>There are likewiſe imployed for Convoys, and a<g ref="char:EOLhyphen"/>bout the</hi> Weſtern <hi>Coaſts of</hi> Scotland, <hi>to the number of five or ſix ſhips, all ſeparately.</hi>
+                        </item>
+                        <item>6. <hi>The</hi> Dutch <hi>ſquadron is in no appearance to be here to joyn ours of a ſudden; both becauſe they are not yet in a readineſs, and that the Admirals of</hi> Holland <hi>make ſcruple, and are highly diſcontented to ſerve under our</hi> Engliſh <hi>Admiral Moreover, tho they were joyn'd us, they will but make up at the moſt but Twenty ſail of ſhips; and them none of the beſt, conſidering their Tallest and beſt mann'd ſhips are out upon Conv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</hi>
+                        </item>
+                        <item>7. <hi>Our own Fleet is ill mann'd, and the Souldiers and Seamen extremely diſcontented for want of their Pay; and ſeveral of the Officers were thoſe tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> belong<g ref="char:EOLhyphen"/>ed to our King before he went away.</hi>
+                        </item>
+                     </list>
+                  </p>
+               </body>
+            </floatingText>
+            <p>There are Five more Articles in this <hi>Me<g ref="char:EOLhyphen"/>morial,</hi> that for certain Reaſons I will not Copy out; only I'll tell the Reader, they are of piece with the reſt, and full as ill. Here are ſome Truths, but a great many more Lyes; and ſuch as none but People of their gang could be capable of. And if the <hi>Reader</hi>'s Curioſity tempt him to be very in<g ref="char:EOLhyphen"/>quiſitive how this <hi>Memorial</hi> came to light: let him wait but a little and perhaps he will ſee both i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the <hi>Deliverers</hi> and <hi>Contrivers</hi> of it made publick enough.</p>
+            <p>The <hi>French</hi> King giving ear to the Re<g ref="char:EOLhyphen"/>preſentations and Importunities of theſe Gentlemen, put all his Wit on the rack to get Money to equip the greateſt Fleet that ever that Nation ſet to Sea; and at a vaſt charge he brought the <hi>Thoulon Sqadron</hi> round the whole Continent of <hi>Spain,</hi> and through the <hi>Streights,</hi> to joyn his <hi>Breſt</hi> Fleet. He left not behind one Seaman that could be found in <hi>France,</hi> and ſcarce one Ship more of any Force in all his Har<g ref="char:EOLhyphen"/>bours. Upon the notice given him by his Truſty Penſioners here, he directs this <hi>French Armado</hi> ſtraight for the Iſle of <hi>Wight,</hi> where our Fleet was to Rendezvous; and if it had but Arrived there ſome few days before it came, we had not had Twenty Ships together at that place: Yet ſo near were we to Ruin, that albeit our Fleet was become by that time pretty ſtrong, and tho moſt of the Ships arriv'd; yet if Hea<g ref="char:EOLhyphen"/>ven had not turned the Wind in a Moment, they had every one of them, in all proba<g ref="char:EOLhyphen"/>bility, been Burn'd at Anchor. The <hi>French</hi> Fleet paſſed in ſight of <hi>Weymouth,</hi> the Mayor of that place did very wiſely diſ<g ref="char:EOLhyphen"/>patch two Expreſſes, one for the Queen, and another for my Lord <hi>Torrington,</hi> the Admiral: But the Wind blowing a fair <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſh Gale, the <hi>French</hi> Fleet had certainly been amidſt ours, before the <hi>Weymouth</hi> Expreſs could poſſibly reach <hi>Portſmouth,</hi> if the Wind had continued but ſome hours longer. Our Fleet being in this immine<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:41022:3"/>moſt inevitable hazard, and the <hi>French</hi> be<g ref="char:EOLhyphen"/>ing within a few Leagues of them, the Wind in an inſtant turn'd about, and put a ſtop to their deſign'd and eaſie Victory, by ob<g ref="char:EOLhyphen"/>liging them to lye by.</p>
+            <p>This happy Providence counter-acted all the Plots of our Enemies both at Home and Abroad; and we had time given us to pre<g ref="char:EOLhyphen"/>vent the Deſtruction that threatned us. And to compleat the Mercy, it f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll out, that as that very preciſe time this hapned, there was a full Diſcovery made by ſome Perſons here, who had been concerned in the Plot all along, of their whole Affairs and Trans<g ref="char:EOLhyphen"/>actions both with <hi>France,</hi> and at Home.</p>
+            <p>I am very inclinable to believe; that all the Officers and Seamen of the Fleet have been Proof againſt the Inſinuations of our <hi>Plotters;</hi> and that they have not yielded to the Temptations of <hi>French</hi> Gold; tho at the ſame time, I do not doubt, they have been aſſaulted with both: And if ſo, the wonder is the greater, if it be true, that is talked ſo freely up and down, That a great many of the Officers have bought their Places with Money. It's hard to believe that there are any ſuch practices in <hi>England,</hi> as the buying and ſelling Places, eſpecially thoſe in the <hi>Fleet,</hi> upon which depend both the Safety and Glory of <hi>England:</hi> But if a<g ref="char:EOLhyphen"/>ny ſuch thing be, then the <hi>Retreat</hi> we have been fore'd to make, will certainly open the eyes of our Governors, to ſee the mighty and almoſt irrecoverable prejudices that at<g ref="char:EOLhyphen"/>tend ſuch ſlaviſh Methods of getting Com<g ref="char:EOLhyphen"/>mands; and will put them upon employing fit Perſons, in <hi>whoſe Fidility and Valour we may ſafely truſt.</hi>
+            </p>
+            <p>Our Murmurers and Plotters were ſtrangely elevated with the expectation of its Succeſs. In their fond imaginations King <hi>James</hi> was already at <hi>White Hall;</hi> and ſome of them were publickly in Coffee Houſes ading the part of a Herauld, in Marſhal<g ref="char:EOLhyphen"/>ling his Triumphant entry into <hi>London.</hi> And the ordinary ſubject of their diſcourſe was, the <hi>Greatneſs and Magnanimity of the</hi> French <hi>King, the number and force of his Fleet, the weakneſs of ours;</hi> and ſometimes a <hi>defect of his Majesties forces in Ireland,</hi> to keep them in heart. Their impudence was arriv'd at that height, that in <hi>open Exchange,</hi> one of the long Robe was pleaſed to ſay with rela<g ref="char:EOLhyphen"/>tion to the <hi>Hollanders</hi> loſs in the late Engage<g ref="char:EOLhyphen"/>ment at Sea, That <hi>they were well paid off for the Preſent they had ſent us twenty Months ago.</hi>
+            </p>
+            <p>But that none of that Party may want the due praiſe their Writings deſerve, I'll give the Reader a <hi>Dedication</hi> made by one of them, and him of the long Robe too) to the <hi>French</hi> King not many Months ſince, when the Plot was juſt upon the wheel, and which for the Nobleneſs of the ſtile I muſt commend, tho the matter of it be down<g ref="char:EOLhyphen"/>right Blaſphemy. <hi>To the Immortality and Eternity of the Name and Divinity of</hi> Lewis <hi>the Great Emperor of</hi> France, <hi>Victorious, Happy, Merciful, Allwiſe, Auguſt; in ac<g ref="char:EOLhyphen"/>knowledgment of his Royal goodneſs and bounty towards the afflicted Princes of</hi> Britrain, <hi>Theſe Verſes Written in</hi> Engliſh, <hi>are in name of the</hi> Bri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tiſh <hi>Iſles most humbly Conſecrated by,</hi> &amp;c. Thus we ſee how far an <hi>Engliſh Jacobite</hi> can outvy a <hi>French</hi> Poet himſelf, in the art of <hi>Blaſphemous Flattery.</hi>
+            </p>
+            <p>But how ſoon are all theſe kind of Peoples hopes laid in the duſt, upon the arrival of the news of His Majeſties Glorious Victo<g ref="char:EOLhyphen"/>ries in <hi>Ireland?</hi> And how far has it coun<g ref="char:EOLhyphen"/>terpois'd the joy they had ſome days ago for the Action between the two Fleets? A little time will ſhew, that notwithſtanding of all they have done to Ruine him, no Bo<g ref="char:EOLhyphen"/>dy will be more forward than they to fawn upon his Majeſties good Fortune, when<g ref="char:EOLhyphen"/>ever once they are quite out of hopes of King <hi>James</hi>'s retrieving his: But ſure the Government will be Wiſer, than ever to dart any of his warm Teams upon ſuch kind of Creatures, any farther than to let them live the Scorn of all Honeſt Men, and the Hatred of every one that loves their Country and their Religion.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41022:3" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
